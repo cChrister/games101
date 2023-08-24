@@ -1,0 +1,3 @@
+/home/canvas/ccode/games101/pa2/cmake-build-debug/CMakeFiles/Rasterizer.dir
+/home/canvas/ccode/games101/pa2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/canvas/ccode/games101/pa2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
